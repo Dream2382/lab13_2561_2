@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:Artid sudjoi
+# STUDENT ID:600610800
